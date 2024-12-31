@@ -228,8 +228,6 @@ Here’s the full version of your **Results** section, written in English for us
 ##### Exhibit 6: Intercepts from Excess Stock Return Regression for 25 Stock Portfolios Formed on FCF and E/M (Reverse Sorting)
 
 | **Free Cash Flow (FCF) Quintile**      | **Alpha** | **t
-
-(a)
 |----------------------------------------|-----------|----------|
 | **E/M Quintile 1 (Low)**               | 0.0098    | 3.34     |
 |                                        | 0.0030    | 1.03     |
