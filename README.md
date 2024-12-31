@@ -77,9 +77,9 @@ By citing this work, you help support open-source development and academic excha
 ### Main Sorting Criteria
 
 **1. Earning/Market values (EM):**  
-   - Represents the weighted sum of expected returns for all assets in the market portfolio.  
+   - Represents growing company probabilities.  
    - Formula:  
-     *Market Return × Total Market Capitalization*  
+     *EM = Earning/Market Value*  
 
 **2. Free-Cash-Flow (FCF):**  
    - Measures the cash flow available to investors after accounting for obligations.  
