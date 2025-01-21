@@ -120,11 +120,6 @@ This section summarizes the outcomes of the strategy selection and evaluation.
   - Results when both **FCF** and **EM** are combined.  
   - Comparison with individual sorting performance.  
 
----
-Here’s the full version of your **Results** section, written in English for use in your GitHub repository:
-
----
-
 ## Results Report
 
 ### Main Results
